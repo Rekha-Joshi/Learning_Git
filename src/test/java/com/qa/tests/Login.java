@@ -13,4 +13,8 @@ public class Login {
 		System.out.println("Test for valid password");
 	}
 
+	public void button() {
+		System.out.println("Press the button");
+	}
+	
 }
